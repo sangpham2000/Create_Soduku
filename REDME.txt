@@ -1,0 +1,1 @@
+run: python createSoduku.py <hole number> <output.txt>
